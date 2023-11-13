@@ -1,0 +1,36 @@
+Added Component: Designator=J(JST_SM04B-GHS-TB(LF)(SN)-)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "SM04B-GHS-TB(LF)(SN)-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "JST Sales"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SM04B-GHS-TB_LF__SN_-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SM04B-GHS-TB%28LF%29%28SN%29-/JST%20Sales%20America%20Inc./view-part/2759740/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "SnapEDAsch.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Net: Net with name "NetC?_2" already exists
+Added Member To Class: ClassName=Sheet1 Member=Component C? Capacitor 100 nF +/-10% 50 V 0603
+Added Member To Class: ClassName=Sheet1 Member=Component C? Capacitor 100 nF +/-10% 50 V 0603
+Added Member To Class: ClassName=Sheet1 Member=Component C? Capacitor 100 nF +/-10% 50 V 0603
+Added Member To Class: ClassName=Sheet1 Member=Component C? Capacitor 100 nF +/-10% 50 V 0603
+Added Member To Class: ClassName=Sheet1 Member=Component C? Capacitor 100nF +/-20% 10V 0402
+Added Member To Class: ClassName=Sheet1 Member=Component C? Capacitor 100 nF +/-10% 50 V 0603
+Added Member To Class: ClassName=Sheet1 Member=Component C? Capacitor 100 nF +/-10% 50 V 0603
+Added Member To Class: ClassName=Sheet1 Member=Component C? Capacitor 100 nF +/-10% 50 V 0603
+Added Member To Class: ClassName=Sheet1 Member=Component C? Capacitor 100 nF +/-10% 50 V 0603
+Added Member To Class: ClassName=Sheet1 Member=Component C? Capacitor 100 nF +/-10% 50 V 0603
+Added Member To Class: ClassName=Sheet1 Member=Component C? Capacitor 100 nF +/-10% 50 V 0603
+Added Member To Class: ClassName=Sheet1 Member=Component C? Capacitor 100 nF +/-10% 50 V 0603
+Added Member To Class: ClassName=Sheet1 Member=Component C? Capacitor 100 nF +/-10% 50 V 0603
+Added Member To Class: ClassName=Sheet1 Member=Component C? Capacitor 100 nF +/-10% 50 V 0603
+Added Member To Class: ClassName=Sheet1 Member=Component C? Capacitor 100 nF +/-10% 50 V 0603
+Added Member To Class: ClassName=Sheet1 Member=Component D? PMEG40T30ERX
+Added Member To Class: ClassName=Sheet1 Member=Component J SM04B-GHS-TB(LF)(SN)-
+Added Member To Class: ClassName=Sheet1 Member=Component R? Resistor 10k +/-1% 0603 100 mW
+Added Member To Class: ClassName=Sheet1 Member=Component R? Resistor 10k +/-1% 0603 100 mW
+Added Member To Class: ClassName=Sheet1 Member=Component U? MMC5983MA
+Added Member To Class: ClassName=Sheet1 Member=Component U? H3LIS331DLTR
+Added Member To Class: ClassName=Sheet1 Member=Component U? BMI088
+Added Member To Class: ClassName=Sheet1 Member=Component U? BMP581
