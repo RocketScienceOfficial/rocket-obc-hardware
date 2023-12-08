@@ -1,0 +1,60 @@
+Removed Member From Class: ClassName=Sheet2 Member=U?
+Change Component Designator: OldDesignator=J? NewDesignator=J1
+Change Component Designator: OldDesignator=U? NewDesignator=U1
+Added Pin To Net: NetName=+3V3 Pin=J1-4
+Added Pin To Net: NetName=GND Pin=J1-6
+Added Pin To Net: NetName=GND Pin=J1-G1
+Added Pin To Net: NetName=GND Pin=J1-MP1
+Added Pin To Net: NetName=GND Pin=J1-MP2
+Added Pin To Net: NetName=GND Pin=J1-MP3
+Added Pin To Net: NetName=GND Pin=J1-MP4
+Added Pin To Net: NetName=GND Pin=J1-MP5
+Added Pin To Net: NetName=GND Pin=U1-3
+Added Pin To Net: NetName=GND Pin=U1-8
+Added Pin To Net: NetName=GND Pin=U1-13
+Added Pin To Net: NetName=GND Pin=U1-18
+Added Pin To Net: NetName=GND Pin=U1-23
+Added Pin To Net: NetName=GND Pin=U1-28
+Added Pin To Net: NetName=GND Pin=U1-33
+Added Pin To Net: NetName=+3V3 Pin=U1-36
+Added Pin To Net: NetName=GND Pin=U1-38
+Added Pin To Net: NetName=GND Pin=U1-A
+Added Pin To Net: NetName=GND Pin=U1-B
+Added Pin To Net: NetName=GND Pin=U1-C
+Added Pin To Net: NetName=GND Pin=U1-D2
+Added Pin To Net: NetName=GND Pin=U1-D
+Added Pin To Net: NetName=GND Pin=U1-TP1
+Add Net: Net with name "NetC?_2" already exists
+Added Pin To Net: NetName=SD_CS Pin=J1-2
+Added Net: Name=SD_CS
+Added Pin To Net: NetName=SPI_MISO Pin=J1-7
+Added Net: Name=SPI_MISO
+Added Pin To Net: NetName=SPI_MOSI Pin=J1-3
+Added Net: Name=SPI_MOSI
+Added Pin To Net: NetName=SPI_SCK Pin=J1-5
+Added Net: Name=SPI_SCK
+Added Pin To Net: NetName=VBAT Pin=U1-39
+Added Net: Name=VBAT
+Added Member To Class: ClassName=Sheet1 Member=Component C? Capacitor 100 nF +/-10% 50 V 0603
+Added Member To Class: ClassName=Sheet1 Member=Component C? Capacitor 100 nF +/-10% 50 V 0603
+Added Member To Class: ClassName=Sheet1 Member=Component C? Capacitor 100 nF +/-10% 50 V 0603
+Added Member To Class: ClassName=Sheet1 Member=Component C? Capacitor 100 nF +/-10% 50 V 0603
+Added Member To Class: ClassName=Sheet1 Member=Component C? Capacitor 100 nF +/-10% 50 V 0603
+Added Member To Class: ClassName=Sheet1 Member=Component C? Capacitor 100 nF +/-10% 50 V 0603
+Added Member To Class: ClassName=Sheet1 Member=Component C? Capacitor 100 nF +/-10% 50 V 0603
+Added Member To Class: ClassName=Sheet1 Member=Component C? Capacitor 100 nF +/-10% 50 V 0603
+Added Member To Class: ClassName=Sheet1 Member=Component C? Capacitor 100 nF +/-10% 50 V 0603
+Added Member To Class: ClassName=Sheet1 Member=Component C? Capacitor 100 nF +/-10% 50 V 0603
+Added Member To Class: ClassName=Sheet1 Member=Component C? Capacitor 100 nF +/-10% 50 V 0603
+Added Member To Class: ClassName=Sheet1 Member=Component C? Capacitor 100nF +/-20% 10V 0402
+Added Member To Class: ClassName=Sheet1 Member=Component C? Capacitor 100 nF +/-10% 50 V 0603
+Added Member To Class: ClassName=Sheet1 Member=Component C? Capacitor 100 nF +/-10% 50 V 0603
+Added Member To Class: ClassName=Sheet1 Member=Component C? Capacitor 100 nF +/-10% 50 V 0603
+Added Member To Class: ClassName=Sheet1 Member=Component D? PMEG40T30ERX
+Added Member To Class: ClassName=Sheet1 Member=Component R? Resistor 10k +/-1% 0603 100 mW
+Added Member To Class: ClassName=Sheet1 Member=Component R? Resistor 10k +/-1% 0603 100 mW
+Added Member To Class: ClassName=Sheet2 Member=Component U1 SC0915
+Added Member To Class: ClassName=Sheet1 Member=Component U? BMP581
+Added Member To Class: ClassName=Sheet1 Member=Component U? MMC5983MA
+Added Member To Class: ClassName=Sheet1 Member=Component U? BMI088
+Added Member To Class: ClassName=Sheet1 Member=Component U? H3LIS331DLTR
