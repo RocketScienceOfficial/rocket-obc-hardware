@@ -1,0 +1,39 @@
+Added Component: Designator=U?(MODULE_SC0915)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/SC0915/Raspberry+Pi/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "SC0915"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Raspberry Pi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SC0915"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "53"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/SC0915/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SC0915/Raspberry+Pi/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "SC0915.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Net: Net with name "NetC?_2" already exists
+Added Member To Class: ClassName=Sheet1 Member=Component C? Capacitor 100 nF +/-10% 50 V 0603
+Added Member To Class: ClassName=Sheet1 Member=Component C? Capacitor 100nF +/-20% 10V 0402
+Added Member To Class: ClassName=Sheet1 Member=Component C? Capacitor 100 nF +/-10% 50 V 0603
+Added Member To Class: ClassName=Sheet1 Member=Component C? Capacitor 100 nF +/-10% 50 V 0603
+Added Member To Class: ClassName=Sheet1 Member=Component C? Capacitor 100 nF +/-10% 50 V 0603
+Added Member To Class: ClassName=Sheet1 Member=Component C? Capacitor 100 nF +/-10% 50 V 0603
+Added Member To Class: ClassName=Sheet1 Member=Component C? Capacitor 100 nF +/-10% 50 V 0603
+Added Member To Class: ClassName=Sheet1 Member=Component C? Capacitor 100 nF +/-10% 50 V 0603
+Added Member To Class: ClassName=Sheet1 Member=Component C? Capacitor 100 nF +/-10% 50 V 0603
+Added Member To Class: ClassName=Sheet1 Member=Component C? Capacitor 100 nF +/-10% 50 V 0603
+Added Member To Class: ClassName=Sheet1 Member=Component C? Capacitor 100 nF +/-10% 50 V 0603
+Added Member To Class: ClassName=Sheet1 Member=Component C? Capacitor 100 nF +/-10% 50 V 0603
+Added Member To Class: ClassName=Sheet1 Member=Component C? Capacitor 100 nF +/-10% 50 V 0603
+Added Member To Class: ClassName=Sheet1 Member=Component C? Capacitor 100 nF +/-10% 50 V 0603
+Added Member To Class: ClassName=Sheet1 Member=Component C? Capacitor 100 nF +/-10% 50 V 0603
+Added Member To Class: ClassName=Sheet1 Member=Component D? PMEG40T30ERX
+Added Member To Class: ClassName=Sheet1 Member=Component R? Resistor 10k +/-1% 0603 100 mW
+Added Member To Class: ClassName=Sheet1 Member=Component R? Resistor 10k +/-1% 0603 100 mW
+Added Member To Class: ClassName=Sheet1 Member=Component U? MMC5983MA
+Added Member To Class: ClassName=Sheet1 Member=Component U? BMP581
+Added Member To Class: ClassName=Sheet1 Member=Component U? BMI088
+Added Member To Class: ClassName=Sheet1 Member=Component U? H3LIS331DLTR
+Added Member To Class: ClassName=Sheet2 Member=Component U? SC0915
+Added Member To Class: ClassName=Sheet2 Member=Component U? SC0915
