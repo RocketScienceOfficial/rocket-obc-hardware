@@ -4,6 +4,7 @@
 *.PcbDocPreview
 __Previews
 *.PrjPcbStructure
+*.Harness
 *.Dat
 *.REP 
 *.TLT
@@ -31,4 +32,3 @@ scripts/__pycache__/
 *.dwl2
 
 
-*.Harness
