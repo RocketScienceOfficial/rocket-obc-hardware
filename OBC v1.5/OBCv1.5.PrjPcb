@@ -68,6 +68,23 @@ GenerateClassCluster=0
 DocumentUniqueId=QEKONBWS
 
 [Document2]
+DocumentPath=IO.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=DKFYVNPM
+
+[Document3]
 DocumentPath=POWER_SUPPLY.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -84,7 +101,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WCRMGNQO
 
-[Document3]
+[Document4]
 DocumentPath=SENSORS.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -100,23 +117,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MWOZEBVR
-
-[Document4]
-DocumentPath=IO.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=DKFYVNPM
 
 [Document5]
 DocumentPath=IGNITERS.SchDoc
@@ -238,23 +238,6 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document12]
-DocumentPath=SENSORS.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document13]
 DocumentPath=IO.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -271,8 +254,25 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document14]
+[Document13]
 DocumentPath=OBCv1.5.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document14]
+DocumentPath=SENSORS.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
