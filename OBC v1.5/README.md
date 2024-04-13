@@ -15,6 +15,8 @@ Schematics & PCB document for rocket OnBoard Computer version 1.5
  - External voltages connectors (VBAT, 5V, 3.3V)
  - Build-in buzzer
 
+![alt text](https://github.com/Filipeak/rocket-obc-hardware/blob/main/OBC%20v1.5/README.md/to/obcrender-removebg-preview.png)
+
 ## Setup
 Project is done on Altium Designer 24.0.1 but it should be fine to run it on other versions
 
