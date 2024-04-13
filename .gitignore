@@ -12,7 +12,7 @@ __Previews
 *.log
 *.htm
 *.$$$
-*.CAM
+*.Cam
 
 #useless dirs
 Project\ Outputs
