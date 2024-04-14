@@ -5,6 +5,7 @@
 __Previews
 *.PrjPcbStructure
 *.Harness
+*.Cam
 *.Dat
 *.REP 
 *.TLT
@@ -33,5 +34,3 @@ scripts/__pycache__/
 
 PWrinSpace_template_sheet.SchDoc
 FR4_1.55mm_4Layers.PcbDoc
-CAMtastic1.Cam
-CAMtastic2.Cam
