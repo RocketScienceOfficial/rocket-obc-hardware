@@ -13,7 +13,6 @@ Schematics & PCB document for rocket OnBoard Computer version 1.5
  - Ability to connect radio device (for example LoRa)
  - Data logging to flash memory
  - External voltages connectors (VBAT, 5V, 3.3V)
- - Build-in buzzer
 
 ## Renders
 
