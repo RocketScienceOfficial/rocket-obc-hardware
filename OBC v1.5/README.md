@@ -16,7 +16,6 @@ Schematics & PCB document for rocket OnBoard Computer version 1.5
 
 ## Renders
 
-### Front side              Back side
 ![](https://github.com/Filipeak/rocket-obc-hardware/blob/main/OBC%20v1.5/assets/obcrender-removebg-preview.png)![](https://github.com/Filipeak/rocket-obc-hardware/blob/main/OBC%20v1.5/assets/obcrenderback-removebg-preview.png)
 
 ## Setup
