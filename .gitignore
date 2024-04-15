@@ -6,6 +6,7 @@ __Previews
 *.PrjPcbStructure
 *.Harness
 *.Cam
+*.Outjob
 *.Dat
 *.REP 
 *.TLT
