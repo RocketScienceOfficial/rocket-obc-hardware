@@ -16,7 +16,7 @@ Schematics & PCB document for rocket OnBoard Computer version 1.5
 
 ## Renders
 
-![](https://github.com/Filipeak/rocket-obc-hardware/blob/main/OBC%20v1.6FE/assets/obcrender-removebg-preview.png)![](https://github.com/Filipeak/rocket-obc-hardware/blob/main/OBC%20v1.6FE/assets/obcrenderback-removebg-preview.png)
+![](https://github.com/Filipeak/rocket-obc-hardware/blob/main/OBC%20v1.6%20FE/assets/obcrender-removebg-preview.png)![](https://github.com/Filipeak/rocket-obc-hardware/blob/main/OBC%20v1.6%20FE/assets/obcrenderback-removebg-preview.png)
 
 ## Setup
 Project is done on Altium Designer 24.0.1 but it should be fine to run it on other versions
