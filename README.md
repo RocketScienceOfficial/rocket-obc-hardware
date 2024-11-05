@@ -1,7 +1,7 @@
-# OBCv1.5
+# OBCv1.6FE
 
 ## Overview
-Schematics & PCB document for rocket OnBoard Computer version 1.5
+Schematics & PCB document for rocket OnBoard Computer version 1.6 (Final Edition)
 
 ## Features
  - High quality sensors:
@@ -9,7 +9,6 @@ Schematics & PCB document for rocket OnBoard Computer version 1.5
    - GPS
    - Barometer 
  - Control of four igniters
- - Control & current measure of four servos
  - Ability to connect radio device (for example LoRa)
  - Data logging to flash memory
  - External voltages connectors (VBAT, 5V, 3.3V)
@@ -19,6 +18,6 @@ Schematics & PCB document for rocket OnBoard Computer version 1.5
 ![](https://github.com/Filipeak/rocket-obc-hardware/blob/main/OBC%20v1.6%20FE/assets/obcrender-removebg-preview.png)![](https://github.com/Filipeak/rocket-obc-hardware/blob/main/OBC%20v1.6%20FE/assets/obcrenderback-removebg-preview.png)
 
 ## Setup
-Project is done on Altium Designer 24.0.1 but it should be fine to run it on other versions
+Project is done on Altium Designer 24.10.1 but it should be fine to run it on other versions
 
 Install Altium Designer, choose your licence and open project
